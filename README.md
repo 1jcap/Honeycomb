@@ -1,4 +1,5 @@
-# "my site" got replaced by the current thing, it is no longer the README.
+# using this as web page
+because its simple and ti works
 
 
 
